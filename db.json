@@ -1,31 +1,31 @@
 {
-    "Usuario": [
+    "Owners": [
         {
             "id": "1",
-            "nombre": "Roberto",
-            "cuil": 20435613173,
-            "direccion": "Argentina argentina 11 ",
-            "telefono": 43324254,
-            "mail": "gmail",
-            "situacionFiscal": "Mono"
+            "name": "Roberto",
+            "cuit": 20435613173,
+            "home": "Argentina argentina 11 ",
+            "phone": 43324254,
+            "email": "gmail",
+            "tax_situacion": "Mono"
         },
         {
             "id": "2",
-            "nombre": "Messi",
-            "cuil": 20435613174,
-            "direccion": "Argentina argentina 12 ",
-            "telefono": 43324255,
-            "mail": "gmail1",
-            "situacionFiscal": "Mono"
+            "name": "Messi",
+            "cuit": 20435613174,
+            "home": "Argentina argentina 12 ",
+            "phone": 43324255,
+            "email": "gmail1",
+            "tax_situacion": "Mono"
         },
         {
             "id": "3",
-            "nombre": "Julian",
-            "cuil": 20435613175,
-            "direccion": "Argentina argentina 13 ",
-            "telefono": 43324256,
-            "mail": "gmail2",
-            "situacionFiscal": "Mono"
+            "name": "Julian",
+            "cuit": 20435613175,
+            "home": "Argentina argentina 13 ",
+            "phone": 43324256,
+            "email": "gmail2",
+            "tax_situacion": "Mono"
         }
     ]
 }
